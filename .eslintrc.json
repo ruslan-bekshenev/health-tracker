@@ -39,6 +39,7 @@
     "function-paren-newline": "off",
     "implicit-arrow-linebreak": "off",
     "react/jsx-wrap-multilines": "off",
-    "react/require-default-props": "off"
+    "react/require-default-props": "off",
+    "react/jsx-props-no-spreading": "off"
   }
 }
